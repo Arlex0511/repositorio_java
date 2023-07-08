@@ -1,0 +1,1 @@
+en este archibo se encuebntra todos los codigos y plqantillas para la creacion de un crud de categorias 
